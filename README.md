@@ -15,7 +15,7 @@ backend: Contém o desenvolvimento do backend, incluindo a implementação da AP
 frontend: Contém o desenvolvimento do frontend, incluindo a interface de usuário.
 docker_integration: Contém a configuração e integração do Docker para os serviços do projeto.
 Desafios Enfrentados
-Backend: Tentei desenvolver o backend utilizando Django, porém enfrentei dificuldades na integração com o Docker.
+Backend: Tentei desenvolver o backend utilizando Django, porém enfrentei dificuldades na integração com o Docker, pesquisei e consegui integrar com o FastAPI e dei seguimento no projeto com essa API.
 Frontend: Desenvolvi a interface de usuário usando React.js, conforme solicitado no desafio.
 Integração do Docker: Consegui configurar o Docker para o projeto, permitindo a execução dos serviços em contêineres isolados.
 Aprendizados
